@@ -1,0 +1,6 @@
+C:\Users\吕易天\Documents\SharpDevelop Projects\MemoryManager\MemoryManager\bin\Release\MemoryManager.exe.config
+C:\Users\吕易天\Documents\SharpDevelop Projects\MemoryManager\MemoryManager\bin\Release\MemoryManager.exe
+C:\Users\吕易天\Documents\SharpDevelop Projects\MemoryManager\MemoryManager\obj\Release\MemoryManager.csprojResolveAssemblyReference.cache
+C:\Users\吕易天\Documents\SharpDevelop Projects\MemoryManager\MemoryManager\obj\Release\MemoryManager.MainForm.resources
+C:\Users\吕易天\Documents\SharpDevelop Projects\MemoryManager\MemoryManager\obj\Release\MemoryManager.csproj.GenerateResource.Cache
+C:\Users\吕易天\Documents\SharpDevelop Projects\MemoryManager\MemoryManager\obj\Release\MemoryManager.exe
